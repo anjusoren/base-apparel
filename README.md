@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://base-apparel-coming-soon-five-xi.vercel.app/)
+- Live Site URL: [base-apparel-coming-soon-page](https://base-apparel-coming-soon-five-xi.vercel.app/)
 
 ## My process
 
