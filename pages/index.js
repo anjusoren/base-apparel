@@ -26,7 +26,7 @@ export default function Home() {
         <div><Content/></div>
         </div>
       
-      <div className="bg-pink-700 md:h-screen relative">
+      <div className="bg-rose-400 md:h-screen relative">
       <Image src={heroImgDesk} alt="hero img small" layout="fill"/>
       </div>
        </main>
